@@ -261,3 +261,35 @@ A documentação do projeto está organizada em:
 * `README.md` — documentação principal;
 * `CONTRIBUTING.md` — guia de contribuição;
 * `LICENSE` — licença do projeto.
+
+---
+
+## 👥 Equipe
+
+<a href="https://github.com/ok-kioo">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f7da043e-005d-4c5c-a4ab-75fdec3ed861" />
+</a>
+
+<a href="https://github.com/lazarosantos1011">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/53da9ab6-aad9-413c-8872-3dbd645eafd0" />
+
+</a>
+
+<a href="https://github.com/DeyvidMariano">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a0954540-ea74-4e46-9684-da027d63b9af" />
+</a>
+
+<a href="https://github.com/KaelanyS">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/27dfcb8e-8bba-4980-af4a-abca98aedaeb" />
+
+</a>
+
+<a href="https://github.com/GabrielSLima01">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b03d34af-22c0-4611-a0e4-de37adf339a4" />
+</a>
+
+<a href="https://github.com/Marcelo-Spacca">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bc56fabc-df26-438a-a0cc-c6244ebae2c7" />
+
+
+</a>
